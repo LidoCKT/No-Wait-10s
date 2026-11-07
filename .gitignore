@@ -1,0 +1,8 @@
+/build/
+/dist/
+/.idea/
+*.jks
+*.keystore
+*.p12
+local.properties
+__pycache__/
