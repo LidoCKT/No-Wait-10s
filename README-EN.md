@@ -7,13 +7,15 @@ Built with modern libxposed API 102, with a scope limited to Security / Security
 
 | Feature | Default | Description |
 | --- | --- | --- |
-| Enable Xiaomi Features | On | Master switch |
-| Unlock Countdown Button | On | Makes matched confirmation buttons clickable immediately without automatically confirming |
-| Auto-Click Next & Allow | Off | Automatically clicks matched confirmation buttons |
-| Notification on Skip | Off | Shows a notification when an auto-click succeeds |
+| 启用小米功能<br> (Enable Xiaomi Features) | On | Master switch |
+| 解禁倒计时按钮<br> (Unlock Countdown Button) | On | Makes matched confirmation buttons clickable immediately without automatically confirming |
+| 自动点下一步和允许<br> (Auto-Click Next & Allow) | Off | Automatically clicks matched confirmation buttons |
+| 跳过时提示（自动点击时）<br>(Notification on Skip) | Off | Shows a notification when an auto-click succeeds |
 
 After unlocking, the countdown text may still be displayed. A clickable button does not mean permission has already been granted.
 It is recommended to keep auto-click disabled during initial use.
+
+Currently, there is no English version available. Please follow the instructions on this page to operate the Chinese app.
 
 ## How to Use
 
