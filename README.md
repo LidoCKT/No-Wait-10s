@@ -1,4 +1,5 @@
 # HyperOS 节约10s（NoWait10s）
+[English](https://github.com/LidoCKT/No-Wait-10s/blob/main/README-EN.md)
 
 让小米安全中心的倒计时确认按钮提前可点击，仍由用户决定是否确认。
 使用现代 libxposed API 102，作用域仅为手机管家 / 安全中心
